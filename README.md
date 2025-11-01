@@ -7,7 +7,7 @@ Personal finance management bot
 
 ## 🧩 Database Diagram
 
-![Database Diagram](docs/finance-bot-db.png)
+![Database Diagram](docs/finance-bot-db.drawio.png)
 >>>>>>> 20aa862 (Resolve merge conflict in README.md)
 
 
