@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# finance-bot
+Personal finance management bot
+=======
+
+## 🧩 Database Diagram
+
+![Database Diagram](docs/finance-bot-db.png)
+>>>>>>> 20aa862 (Resolve merge conflict in README.md)
 
 
 ---
@@ -140,3 +151,7 @@ Foydalanuvchi quyidagilarni bajara oladi:
    curl -F "url=https://yourdomain.com/webhook.php" https://api.telegram.org/bot<YOUR_TOKEN>/setWebhook
 
 © 2025 | Mavlyanov013 tomonidan yaratilgan
+<<<<<<< HEAD
+=======
+>>>>>>> 7cf3227 (Add initial project files and README)
+>>>>>>> 20aa862 (Resolve merge conflict in README.md)

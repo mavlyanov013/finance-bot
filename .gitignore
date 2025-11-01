@@ -1,9 +1,42 @@
+<<<<<<< HEAD
+*.log
+.DS_Store
+=======
+<<<<<<< HEAD
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+>>>>>>> 20aa862 (Resolve merge conflict in README.md)
+.env
+.env.backup
+.env.production
+.phpactor.json
+<<<<<<< HEAD
+=======
+auth.json
+=======
 *.log
 .DS_Store
 .env
 .env.backup
 .env.production
 .phpactor.json
+>>>>>>> 20aa862 (Resolve merge conflict in README.md)
 .phpunit.result.cache
 /.fleet
 /.idea
@@ -22,3 +55,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+<<<<<<< HEAD
+=======
+>>>>>>> 7cf3227 (Add initial project files and README)
+>>>>>>> 20aa862 (Resolve merge conflict in README.md)
